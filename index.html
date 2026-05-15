@@ -85,8 +85,9 @@
     .contact-list{display:grid;gap:10px}
     .contact-item{display:flex;justify-content:space-between;gap:12px;align-items:center;padding:14px 16px;border-radius:18px;background:var(--surface-2);border:1px solid var(--line)}
     .footer{padding:22px 0 40px;color:var(--muted);font-size:.95rem}
-    .lang-en .lang-ar,.lang-ar .lang-en{display:none!important}
-    .lang-ar body,.lang-ar{font-family:var(--font-ar)}
+    .lang-en .lang-ar{display:none!important}
+    .lang-ar .lang-en{display:none!important}
+    html.lang-ar body{font-family:var(--font-ar)}
     .lang-ar .hero-grid,.lang-ar .section-head,.lang-ar .contact-panel,.lang-ar .nav,.lang-ar .profile,.lang-ar .project-top,.lang-ar .certificate{direction:rtl}
     .lang-ar .nav-links{flex-direction:row-reverse}
     .lang-ar .timeline-item{padding-left:22px;padding-right:28px}
@@ -354,7 +355,7 @@
       }
       function setLanguage(lang){
         currentLang=lang; root.classList.remove('lang-en','lang-ar'); root.classList.add(lang==='ar'?'lang-ar':'lang-en');
-        root.setAttribute('lang',lang==='ar'?'ar':'en'); root.setAttribute('dir',lang==='ar'?'rtl':'ltr');
+        root.setAttribute('lang',lang==='ar'?'ar':'en'); document.body.dir=lang==='ar'?'rtl':'ltr';
         langToggle.textContent=lang==='ar'?'EN':'AR';
         document.title=lang==='ar'?'بورتفوليو زياد العامري':'Zeyad Alameri Portfolio';
       }
