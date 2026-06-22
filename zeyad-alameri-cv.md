@@ -1,75 +1,97 @@
-# Zeyad Alameri
+# ZEYAD RASHAD TAHA AL-AMERI
 
-Junior Full Stack Developer  
-Sana'a, Yemen  
-Email: zeyadalameri77@gmail.com  
-Phone: +967 770 526 248  
-GitHub: https://github.com/zeyadalameri  
-LinkedIn: https://www.linkedin.com/in/zeyadalameri/
+**Information Technology Graduate | Full-Stack Developer | Master’s Applicant in Computer Science**  
+Sana’a, Yemen | zeyadalameri77@gmail.com | +967 770 526 248 | github.com/zeyadalameri | linkedin.com/in/zeyadalameri
 
-## Professional Summary
+## PROFESSIONAL SUMMARY
+Information Technology graduate from Sana’a University and Full-Stack Developer with practical experience in web, mobile, and automation systems. My academic and professional background combines software engineering, databases, REST API development, mobile applications, and applied information systems. I am seeking a Master’s degree in Computer Science, Software Engineering, or Artificial Intelligence in Germany to strengthen my theoretical foundations and research-oriented skills while building on my experience in real-world software development.
 
-IT graduate with full-stack development experience building web applications, automation systems, and mobile apps. Developed and deployed production Telegram systems at New Smart Technology using Python and Flask. Experienced in building real-time message processing systems, REST APIs, and scalable backend solutions.
+## EDUCATION
+Bachelor of Information Technology — Sana’a University, Faculty of Computer & Information Technology, Yemen
 
-## Technical Skills
+Oct 2021 – Apr 2025 | GPA: 82/100 — Very Good | Total: 3854/4700
 
-- Programming Languages: JavaScript, Python, PHP, Dart, C#, C++
-- Backend Frameworks: Node.js, Flask, Laravel, ASP.NET
-- Frontend Technologies: HTML5, CSS3, Bootstrap, React
-- Mobile Development: Flutter, Dart
-- Databases: MySQL, PostgreSQL, SQLite, Firebase
-- APIs & Web Services: RESTful APIs, JSON, HTTP/HTTPS, CRUD Operations
-- Tools & Platforms: Git, GitHub, Linux, Windows, XAMPP
-- Core Computer Science: OOP, MVC Architecture, Data Structures, Algorithms
+Graduation Project: Smart Shopping App — Excellent, 94/100 in Graduation Project (1) and 94/100 in Graduation Project (2)
 
-## Professional Experience
+Rank: Not officially issued yet; to be added if provided by Sana’a University.
 
-### Software Developer Intern
-**New Smart Technology** — Sana'a, Yemen  
-Oct 2025 - Jan 2026
+## RELEVANT COURSEWORK
+Programming & Software: Computer Programming I–II, Object-Oriented Programming, Data Structures and Algorithms, Introduction to Software Engineering, Visual Programming, Integrative Programming, Web Technologies, Fundamentals of Web Technologies, E-commerce.
 
-- Developed and deployed a production backend system for Telegram automation.
-- Built message processing pipelines and integrated external APIs.
-- Designed and implemented monitoring features using Flask.
-- Collaborated with the development team on system design and deployment.
+Systems & Infrastructure: Fundamentals of Operating Systems, Computer Architecture and Organization, Computer Networks, Computer Networks Administration, Parallel and Distributed Systems, Distributed Cloud Computing, Systems Administration and Maintenance.
 
-## Projects
+Data & Security: Fundamentals of Database, Data and Information Management I–II, Information Security, Information Security Management, Computer Forensics.
 
-### SmartBook Telegram System
-**Full Stack Developer** — New Smart Technology
+Mathematics & Methods: Calculus I–II, Discrete Mathematics, Principles of Probability and Statistics, Research Methods, System Analysis and Design, IT Project Management, Human-Computer Interaction.
 
-- Developed and deployed a production-ready Telegram automation system.
-- Built backend processing using Python and Telegram API.
-- Developed a Flask dashboard for real-time monitoring and system tracking.
-- Integrated external REST APIs for data processing and system communication.
-- Technologies: Python, Flask, Telegram API, REST APIs, JSON
-- Repository: https://github.com/zeyadalameri/smartbook-telegram-system
+## PROFESSIONAL EXPERIENCE
+Full-Stack Developer — New Smart Technology, Sana’a, Yemen | May 2025 – Jun 2026
 
-### Smart Shopping App
-**Mobile Developer** — Graduation Project
+• Joined as a trainee and was hired full-time as a Full-Stack Developer, contributing to real-world software projects including an e-commerce platform and an automation system.
 
-- Built a location-based mobile application using Flutter and Dart.
-- Integrated REST APIs for real-time nearby store offers.
-- Applied MVC architecture with controllers, models, and service layers.
-- Technologies: Flutter, Dart, REST APIs, Location Services, Firebase
-- Repository: Add your GitHub repository link here
+• Developed and maintained e-commerce modules including product catalog, shopping cart, checkout flow, payments, and administrative dashboard using React, Node.js, and MySQL.
 
-### WhatsApp Automation Bot
-**Node.js Developer**
+• Built SmartBook Telegram automation features using Python/Flask, REST API integration, authentication, token handling, monitoring, and logging.
 
-- Developed a real-time WhatsApp bot using Node.js and whatsapp-web.js.
-- Implemented automated message handling and response logic.
-- Technologies: Node.js, whatsapp-web.js
-- Repository: Add your GitHub repository link here
+• Collaborated across the software lifecycle: requirements, design, implementation, testing, deployment, and maintenance.
 
-## Education
+Information Systems Supervisor — Baby Products & Supplies Company, Ibb, Yemen | Sep 2022 – Jul 2024
 
-### Bachelor of Information Technology
-**Sana'a University**  
-Graduation: 2025  
-GPA: 82% (3.6/4.0)
+• Managed the company’s internal information system, including inventory records, invoicing, and operational data management during undergraduate studies.
 
-## Languages
+• Improved data accuracy, record-keeping efficiency, and internal communication workflows.
 
-- Arabic: Native
-- English: Intermediate
+## PROJECTS
+Smart Shopping App — Graduation Project | Flutter, Dart, Firebase, REST APIs, Location Services
+
+• Developed a location-based mobile shopping application that helps users discover nearby markets, browse offers, and interact with store data through a mobile interface.
+
+• Implemented location-based algorithms to filter nearby markets and offers based on user position, supporting more relevant market discovery and user-focused shopping workflows.
+
+• Integrated Firebase services and REST API communication for data handling, application services, and mobile interaction flows. GitHub: github.com/zeyadalameri/smart-shopping-flutter-app
+
+SmartBook Telegram Integration System | Python, Flask, Telethon, REST APIs, Authentication
+
+• Built a backend automation system that receives Telegram messages, filters and validates data, forwards structured information to the SmartBook API, and provides a monitoring dashboard.
+
+• Implemented authentication/token handling, logging, statistics, and session management. GitHub: github.com/zeyadalameri/smartbook-telegram-system
+
+E-Commerce Web Platform | React, Node.js/Express, MySQL, REST APIs, JWT
+
+• Developed core modules for an online store including catalog, cart, checkout, payment workflow, and admin panel with authentication and database-backed management features.
+
+WhatsApp Automation Bots | Node.js, whatsapp-web.js, Python, Selenium, JSON
+
+• Built automation scripts for monitoring WhatsApp Web messages, saving structured message data, and handling automated message workflows.
+
+Hotel Management System | C#, .NET WinForms, SQL Server
+
+• Developed an academic desktop application for room management, check-in/check-out, employee management, and activity logging.
+
+## TECHNICAL SKILLS
+Programming Languages: Python, JavaScript, TypeScript, PHP, Dart, C#, C++, SQL
+
+Back-End: Node.js, Express, Flask, FastAPI, Laravel, ASP.NET, REST APIs, JWT Authentication
+
+Front-End & Mobile: React, HTML5, CSS3, Bootstrap, Flutter, Dart
+
+Databases & Cloud: MySQL, PostgreSQL, SQLite, Firebase
+
+Tools & Practices: Git, GitHub, Linux, Docker basics, VS Code, XAMPP, MVC Architecture, API Integration
+
+Computer Science Core: OOP, Data Structures and Algorithms, Software Engineering, Databases, Operating Systems, Networks, Distributed Systems
+
+## CERTIFICATIONS
+Diploma in Information Technology Management — Alison | Score: 86%
+
+Medium of Instruction Certificate — Bachelor’s programme taught in English, Sana’a University
+
+## LANGUAGES
+Arabic: Native
+
+English: B2 / Upper-Intermediate
+
+Proof: Medium of Instruction certificate from Sana’a University; IELTS/TOEFL can be provided later if required by the target university.
+
+## ACADEMIC INTERESTS
+Software Engineering, Applied Computer Science, Artificial Intelligence, Distributed Systems, Databases, Mobile Computing, Web Systems, and Secure Information Systems.

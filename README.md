@@ -1,20 +1,32 @@
 # Zeyad Alameri Portfolio
 
-This repository contains my personal portfolio website and CV files.
+This repository contains my personal portfolio website and academic CV files for Master's applications in Computer Science, Software Engineering, Artificial Intelligence, and related fields.
 
-## Files
-- `index.html` — Main portfolio website.
-- `zeyad-alameri-cv.md` — CV version for download.
-- `zeyad-alameri-cv.txt` — Plain-text CV version.
-- `README.md` — Repository guide.
+## Live Website
 
-## How to deploy
-1. Upload all files to the root of the repository named `zeyadalameri.github.io`.
-2. Go to **Settings > Pages**.
-3. Set **Source** to `Deploy from a branch`.
-4. Choose branch `main` and folder `/root`.
-5. Save changes.
-
-## Live site
-After deployment, the website will be available at:
 https://zeyadalameri.github.io
+
+## Contents
+
+- `index.html` — Personal portfolio website
+- `zeyad-alameri-cv.md` — Academic CV in Markdown format
+- `zeyad-alameri-cv.txt` — Plain-text CV format
+- `zeyad-alameri-cv.pdf` — PDF CV file
+- `README.md` — Repository guide
+
+## Profile Summary
+
+Information Technology graduate from Sana'a University and Full-Stack Developer with experience in web, mobile, e-commerce, automation, REST APIs, databases, and applied software systems.
+
+## Featured Projects
+
+- Smart Shopping App — Flutter, Firebase, REST APIs, Location Services, location-based algorithms
+- SmartBook Telegram Integration System — Python, Flask, Telegram API, REST APIs
+- E-Commerce Web Platform — React, Node.js, MySQL
+- WhatsApp Automation Bots — Node.js / Python automation prototypes
+
+## Author
+
+**Zeyad Alameri**  
+Email: zeyadalameri77@gmail.com  
+GitHub: [@zeyadalameri](https://github.com/zeyadalameri)
