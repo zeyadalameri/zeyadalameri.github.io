@@ -24,6 +24,7 @@ Full-Stack Developer — New Smart Technology, Sana’a, Yemen | May 2025 – Ju
 • Developed and maintained e-commerce modules including product catalog, shopping cart, checkout flow, payments, and administrative dashboard using React, Node.js, and MySQL.
 • Built SmartBook Telegram automation features using Python/Flask, REST API integration, authentication, token handling, monitoring, and logging.
 • Collaborated across the software lifecycle: requirements, design, implementation, testing, deployment, and maintenance.
+
 Information Systems Supervisor — Baby Products & Supplies Company, Ibb, Yemen | Sep 2022 – Jul 2024
 • Managed the company’s internal information system, including inventory records, invoicing, and operational data management during undergraduate studies.
 • Improved data accuracy, record-keeping efficiency, and internal communication workflows.
@@ -33,13 +34,17 @@ Smart Shopping App — Graduation Project | Flutter, Dart, Firebase, REST APIs, 
 • Developed a location-based mobile shopping application that helps users discover nearby markets, browse offers, and interact with store data through a mobile interface.
 • Implemented location-based algorithms to filter nearby markets and offers based on user position, supporting more relevant market discovery and user-focused shopping workflows.
 • Integrated Firebase services and REST API communication for data handling, application services, and mobile interaction flows. GitHub: github.com/zeyadalameri/smart-shopping-flutter-app
+
 SmartBook Telegram Integration System | Python, Flask, Telethon, REST APIs, Authentication
 • Built a backend automation system that receives Telegram messages, filters and validates data, forwards structured information to the SmartBook API, and provides a monitoring dashboard.
 • Implemented authentication/token handling, logging, statistics, and session management. GitHub: github.com/zeyadalameri/smartbook-telegram-system
+
 E-Commerce Web Platform | React, Node.js/Express, MySQL, REST APIs, JWT
 • Developed core modules for an online store including catalog, cart, checkout, payment workflow, and admin panel with authentication and database-backed management features.
+
 WhatsApp Automation Bots | Node.js, whatsapp-web.js, Python, Selenium, JSON
 • Built automation scripts for monitoring WhatsApp Web messages, saving structured message data, and handling automated message workflows.
+
 Hotel Management System | C#, .NET WinForms, SQL Server
 • Developed an academic desktop application for room management, check-in/check-out, employee management, and activity logging.
 

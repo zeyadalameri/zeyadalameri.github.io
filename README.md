@@ -20,7 +20,7 @@ Information Technology graduate from Sana'a University and Full-Stack Developer 
 
 ## Featured Projects
 
-- Smart Shopping App — Flutter, Firebase, REST APIs, Location Services; includes location-based algorithms for filtering nearby markets and offers
+- Smart Shopping App — Flutter, Firebase, REST APIs, Location Services, location-based algorithms
 - SmartBook Telegram Integration System — Python, Flask, Telegram API, REST APIs
 - E-Commerce Web Platform — React, Node.js, MySQL
 - WhatsApp Automation Bots — Node.js / Python automation prototypes
