@@ -1,97 +1,92 @@
 # ZEYAD RASHAD TAHA AL-AMERI
 
-**Information Technology Graduate | Full-Stack Developer | Master’s Applicant in Computer Science**  
-Sana’a, Yemen | zeyadalameri77@gmail.com | +967 770 526 248 | github.com/zeyadalameri | linkedin.com/in/zeyadalameri
+**Information Technology Graduate | Full-Stack Developer**
 
-## PROFESSIONAL SUMMARY
-Information Technology graduate from Sana’a University and Full-Stack Developer with practical experience in web, mobile, and automation systems. My academic and professional background combines software engineering, databases, REST API development, mobile applications, and applied information systems. I am seeking a Master’s degree in Computer Science, Software Engineering, or Artificial Intelligence in Germany to strengthen my theoretical foundations and research-oriented skills while building on my experience in real-world software development.
+Sana'a, Yemen | zeyadalameri77@gmail.com | +967 770 526 248<br>
+[github.com/zeyadalameri](https://github.com/zeyadalameri) | [linkedin.com/in/zeyadalameri](https://www.linkedin.com/in/zeyadalameri/) | [zeyadalameri.github.io](https://zeyadalameri.github.io)
+
+Born 18 June 2002 in Ibb, Yemen | Yemeni nationality
+
+## PROFESSIONAL PROFILE
+
+Information Technology graduate from Sana'a University (82/100, Very Good) and Full-Stack Developer with hands-on experience in web, mobile, automation, and information systems. Seeking postgraduate study in Computer Science to strengthen my foundations in software engineering, distributed systems, database systems, and applied computing.
 
 ## EDUCATION
-Bachelor of Information Technology — Sana’a University, Faculty of Computer & Information Technology, Yemen
 
-Oct 2021 – Apr 2025 | GPA: 82/100 — Very Good | Total: 3854/4700
+**Bachelor of Science in Information Technology** | **Oct 2021 - Jun 2025**<br>
+Sana'a University, Faculty of Computer & Information Technology<br>
+Final average: 82/100 - Very Good | 138 credit hours<br>
+Graduation Project: Smart Shopping App - 94/100 (Excellent)
 
-Graduation Project: Smart Shopping App — Excellent, 94/100 in Graduation Project (1) and 94/100 in Graduation Project (2)
-
-Rank: Not officially issued yet; to be added if provided by Sana’a University.
-
-## RELEVANT COURSEWORK
-Programming & Software: Computer Programming I–II, Object-Oriented Programming, Data Structures and Algorithms, Introduction to Software Engineering, Visual Programming, Integrative Programming, Web Technologies, Fundamentals of Web Technologies, E-commerce.
-
-Systems & Infrastructure: Fundamentals of Operating Systems, Computer Architecture and Organization, Computer Networks, Computer Networks Administration, Parallel and Distributed Systems, Distributed Cloud Computing, Systems Administration and Maintenance.
-
-Data & Security: Fundamentals of Database, Data and Information Management I–II, Information Security, Information Security Management, Computer Forensics.
-
-Mathematics & Methods: Calculus I–II, Discrete Mathematics, Principles of Probability and Statistics, Research Methods, System Analysis and Design, IT Project Management, Human-Computer Interaction.
+Selected academic results: Software Engineering 97; Graduation Project 94; Systems Administration & Maintenance 90; Probability & Statistics 87; Computer Networks 87; OOP 84; Parallel & Distributed Systems 84; Operating Systems 82.
 
 ## PROFESSIONAL EXPERIENCE
-Full-Stack Developer — New Smart Technology, Sana’a, Yemen | May 2025 – Jun 2026
 
-• Joined as a trainee and was hired full-time as a Full-Stack Developer, contributing to real-world software projects including an e-commerce platform and an automation system.
+### Full-Stack Developer - New Smart Technology, Sana'a, Yemen | Jun 2025 - Present
 
-• Developed and maintained e-commerce modules including product catalog, shopping cart, checkout flow, payments, and administrative dashboard using React, Node.js, and MySQL.
+- Develop and maintain the company's core system and other full-stack applications, implementing database changes, back-end logic, front-end updates, bug fixes, and day-to-day feature requests.
+- Contributed to NOVA Marketplace using Next.js, React, TypeScript, Django REST Framework, React Native/Expo, PostgreSQL, and Docker, including inventory and sandbox payment/shipping workflows.
+- Built and maintained SmartBook Telegram Integration features using Python, Flask, Telethon, REST APIs, authentication, logging, and monitoring.
+- Developed and maintained School Management System modules for student records, attendance, grading, roles, fees, and administrative dashboards using Laravel and Filament.
 
-• Built SmartBook Telegram automation features using Python/Flask, REST API integration, authentication, token handling, monitoring, and logging.
+### Information Systems & Operations Supervisor - Mom Easy, Sana'a, Yemen | Sep 2022 - Jul 2024
 
-• Collaborated across the software lifecycle: requirements, design, implementation, testing, deployment, and maintenance.
+- Worked part-time while completing the bachelor's degree, progressing from sales representative to distribution, payment collection, inventory, and information-system responsibilities.
+- Managed operational data for inventory, invoicing, collections, and internal record keeping.
+- Assumed responsibility for the company's accounting and information system and supported accurate day-to-day data use.
 
-Information Systems Supervisor — Baby Products & Supplies Company, Ibb, Yemen | Sep 2022 – Jul 2024
+## SELECTED PROJECTS
 
-• Managed the company’s internal information system, including inventory records, invoicing, and operational data management during undergraduate studies.
+### NOVA Marketplace - New Smart Technology | 2026
 
-• Improved data accuracy, record-keeping efficiency, and internal communication workflows.
+**Next.js, React, TypeScript, Django REST Framework, React Native/Expo, PostgreSQL, Docker**
 
-## PROJECTS
-Smart Shopping App — Graduation Project | Flutter, Dart, Firebase, REST APIs, Location Services
+Production-oriented multi-client e-commerce MVP with web and mobile clients, inventory workflows, JWT authentication, sandbox payment/shipping integrations, and optional AI-assisted inventory analysis.
 
-• Developed a location-based mobile shopping application that helps users discover nearby markets, browse offers, and interact with store data through a mobile interface.
+[github.com/zeyadalameri/nova-marketplace](https://github.com/zeyadalameri/nova-marketplace)
 
-• Implemented location-based algorithms to filter nearby markets and offers based on user position, supporting more relevant market discovery and user-focused shopping workflows.
+### Smart Shopping App - Graduation Project | 2025
 
-• Integrated Firebase services and REST API communication for data handling, application services, and mobile interaction flows. GitHub: github.com/zeyadalameri/smart-shopping-flutter-app
+**Flutter, Dart, Firebase, REST APIs, Location Services**
 
-SmartBook Telegram Integration System | Python, Flask, Telethon, REST APIs, Authentication
+Flutter mobile client that uses location-aware REST API queries to help users discover nearby markets and browse offers. Final score: 94/100.
 
-• Built a backend automation system that receives Telegram messages, filters and validates data, forwards structured information to the SmartBook API, and provides a monitoring dashboard.
+[github.com/zeyadalameri/smart-shopping-flutter-app](https://github.com/zeyadalameri/smart-shopping-flutter-app)
 
-• Implemented authentication/token handling, logging, statistics, and session management. GitHub: github.com/zeyadalameri/smartbook-telegram-system
+### School Management System - New Smart Technology | 2026
 
-E-Commerce Web Platform | React, Node.js/Express, MySQL, REST APIs, JWT
+**Laravel 9, Filament 2, PHP, MySQL, Tailwind CSS**
 
-• Developed core modules for an online store including catalog, cart, checkout, payment workflow, and admin panel with authentication and database-backed management features.
+School administration system for student enrolment, attendance, grading, teachers, classes, fees, payments, and role-based access.
 
-WhatsApp Automation Bots | Node.js, whatsapp-web.js, Python, Selenium, JSON
+[github.com/zeyadalameri/school-management-system](https://github.com/zeyadalameri/school-management-system)
 
-• Built automation scripts for monitoring WhatsApp Web messages, saving structured message data, and handling automated message workflows.
+### SmartBook Telegram Integration - New Smart Technology | 2025
 
-Hotel Management System | C#, .NET WinForms, SQL Server
+**Python, Flask, Telethon, REST APIs**
 
-• Developed an academic desktop application for room management, check-in/check-out, employee management, and activity logging.
+Python and Flask integration prototype for receiving Telegram messages, connecting selected workflows to an external SmartBook API, and monitoring activity through a local dashboard.
+
+[github.com/zeyadalameri/smartbook-telegram-system](https://github.com/zeyadalameri/smartbook-telegram-system)
+
+### Hotel Management System | 2023
+
+**C#, .NET Framework 4.7.2, Windows Forms, SQL Server**
+
+Academic desktop application for room management, customer records, employee records, check-in/out, and activity logging.
+
+[github.com/zeyadalameri/Hotel-Management](https://github.com/zeyadalameri/Hotel-Management)
 
 ## TECHNICAL SKILLS
-Programming Languages: Python, JavaScript, TypeScript, PHP, Dart, C#, C++, SQL
 
-Back-End: Node.js, Express, Flask, FastAPI, Laravel, ASP.NET, REST APIs, JWT Authentication
+- **Programming:** Python, JavaScript, TypeScript, PHP, Dart, C#, C++, SQL
+- **Back-End & APIs:** Django REST Framework, Node.js, Express, Flask, Laravel, REST APIs, JWT
+- **Front-End & Mobile:** Next.js, React, React Native, Expo, Flutter, HTML5, CSS3, Bootstrap
+- **Databases & Tools:** PostgreSQL, MySQL, SQL Server, SQLite, Firebase, Git, GitHub, Docker, Docker Compose, Linux
+- **Computer Science:** OOP, Data Structures & Algorithms, Software Engineering, Databases, Operating Systems, Networks, Distributed Systems
 
-Front-End & Mobile: React, HTML5, CSS3, Bootstrap, Flutter, Dart
+## LANGUAGES, CERTIFICATIONS & INTERESTS
 
-Databases & Cloud: MySQL, PostgreSQL, SQLite, Firebase
-
-Tools & Practices: Git, GitHub, Linux, Docker basics, VS Code, XAMPP, MVC Architecture, API Integration
-
-Computer Science Core: OOP, Data Structures and Algorithms, Software Engineering, Databases, Operating Systems, Networks, Distributed Systems
-
-## CERTIFICATIONS
-Diploma in Information Technology Management — Alison | Score: 86%
-
-Medium of Instruction Certificate — Bachelor’s programme taught in English, Sana’a University
-
-## LANGUAGES
-Arabic: Native
-
-English: B2 / Upper-Intermediate
-
-Proof: Medium of Instruction certificate from Sana’a University; IELTS/TOEFL can be provided later if required by the target university.
-
-## ACADEMIC INTERESTS
-Software Engineering, Applied Computer Science, Artificial Intelligence, Distributed Systems, Databases, Mobile Computing, Web Systems, and Secure Information Systems.
+- **Languages:** Arabic - Native | English - Academic medium of instruction; certificate issued by Sana'a University
+- **Professional Training:** Diploma in Information Technology Management - Alison (online, 86%)
+- **Academic interests:** Computer Science, Software Engineering, Distributed Systems, Database Systems, Applied Computer Science, Web Engineering

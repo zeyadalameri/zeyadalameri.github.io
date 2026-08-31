@@ -1,4 +1,4 @@
-# Zeyad Alameri - Portfolio
+# ZEYAD RASHAD TAHA AL-AMERI - Portfolio
 
 Source for my bilingual personal portfolio and downloadable CV.
 
