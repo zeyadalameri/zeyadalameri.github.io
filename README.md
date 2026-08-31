@@ -1,32 +1,35 @@
-# Zeyad Alameri Portfolio
+# Zeyad Alameri - Portfolio
 
-This repository contains my personal portfolio website and academic CV files for Master's applications in Computer Science, Software Engineering, Artificial Intelligence, and related fields.
+Source for my bilingual personal portfolio and downloadable CV.
 
-## Live Website
+**Live site:** [zeyadalameri.github.io](https://zeyadalameri.github.io)
 
-https://zeyadalameri.github.io
+## Featured Work
 
-## Contents
+1. [NOVA Marketplace](https://github.com/zeyadalameri/nova-marketplace)
+2. [Smart Shopping App - Graduation Project, 94/100](https://github.com/zeyadalameri/smart-shopping-flutter-app)
+3. [School Management System](https://github.com/zeyadalameri/school-management-system)
+4. [SmartBook Telegram Integration](https://github.com/zeyadalameri/smartbook-telegram-system)
+5. [Hotel Management System](https://github.com/zeyadalameri/Hotel-Management)
 
-- `index.html` — Personal portfolio website
-- `zeyad-alameri-cv.md` — Academic CV in Markdown format
-- `zeyad-alameri-cv.txt` — Plain-text CV format
-- `zeyad-alameri-cv.pdf` — PDF CV file
-- `README.md` — Repository guide
+The WhatsApp Web repositories are presented separately as learning and automation prototypes.
 
-## Profile Summary
+## Site Features
 
-Information Technology graduate from Sana'a University and Full-Stack Developer with experience in web, mobile, e-commerce, automation, REST APIs, databases, and applied software systems.
+- Responsive single-page layout
+- English and Arabic content
+- Light and dark themes
+- Repository links and downloadable PDF CV
+- No build step or external JavaScript framework
 
-## Featured Projects
+## Local Preview
 
-- Smart Shopping App — Flutter, Firebase, REST APIs, Location Services; includes location-based algorithms for nearby market filtering
-- SmartBook Telegram Integration System — Python, Flask, Telegram API, REST APIs
-- E-Commerce Web Platform — React, Node.js, MySQL
-- WhatsApp Automation Bots — Node.js / Python automation prototypes
+Open `index.html` directly, or serve the directory with any static HTTP server:
 
-## Author
+```bash
+python -m http.server 8000
+```
 
-**Zeyad Alameri**  
-Email: zeyadalameri77@gmail.com  
-GitHub: [@zeyadalameri](https://github.com/zeyadalameri)
+## Maintenance
+
+Project descriptions are intentionally aligned with the implemented repositories. Update `index.html`, the Markdown/text CV sources, and the generated PDF together whenever portfolio information changes.
